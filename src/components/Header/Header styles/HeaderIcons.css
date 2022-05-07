@@ -1,0 +1,11 @@
+.HeaderIcons1 {
+    display: flex;
+    width: 72px;
+    justify-content: space-between;
+}
+
+.HeaderIcons {
+    display: flex;
+    width: 127px;
+    justify-content: space-between;
+}
